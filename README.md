@@ -1,0 +1,1 @@
+Exported from API Gateway in Swagger specification.
